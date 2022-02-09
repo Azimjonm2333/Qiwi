@@ -12,7 +12,7 @@ $ `pip install pyqiwi && pip install qiwipy`
 
 $ `git clone https://github.com/Azimjonm2333/Qiwi`
 
-$ `cd Qiwi-Py`
+$ `cd Qiwi`
 
 # 📍Запуск:
 
